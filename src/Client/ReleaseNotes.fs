@@ -1,10 +1,13 @@
 module internal ReleaseNotes
 
-let Version = "0.8.5"
+let Version = "0.8.6"
 
 let IsPrerelease = false
 
 let Notes = """
+### 0.8.6 - 2017-10-24
+* Test initial deployment
+
 ### 0.8.5 - 2017-10-13
 * Test docker container before we ship
 
