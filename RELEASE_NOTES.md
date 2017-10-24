@@ -1,3 +1,6 @@
+### 0.8.7 - 2017-10-24
+* Retry automatic deployment
+
 ### 0.8.6 - 2017-10-24
 * Test initial deployment
 

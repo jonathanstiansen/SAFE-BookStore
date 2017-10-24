@@ -1,10 +1,13 @@
 module internal ReleaseNotes
 
-let Version = "0.8.6"
+let Version = "0.8.7"
 
 let IsPrerelease = false
 
 let Notes = """
+### 0.8.7 - 2017-10-24
+* Retry automatic deployment
+
 ### 0.8.6 - 2017-10-24
 * Test initial deployment
 
